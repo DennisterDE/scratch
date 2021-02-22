@@ -1,2 +1,2 @@
 # scratch
-megadott sebességgel a kutya és a macska elindul egy irányba és akkor állnak meg ha megtalálják egymást
+a cica megadott sebességgel indul el szaladni és a kutyát el kell kerülnie a végtelenségig.
